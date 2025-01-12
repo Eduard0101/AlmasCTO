@@ -1,0 +1,14 @@
+project/
+├── README.md
+├── requirements.txt (или pyproject.toml)
+├── src/
+│   ├── main.py
+│   ├── config.py
+│   ├── db.py
+│   ├── models.py
+│   ├── parser/
+│   │   ├── __init__.py
+│   │   ├── hh_parser.py
+│   ├── ...
+├── tests/
+└── ...
