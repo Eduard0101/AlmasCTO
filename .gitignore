@@ -1,0 +1,12 @@
+# Операционная система
+*.DS_Store
+*.log
+
+# Среда разработки
+.idea/
+.vscode/
+
+# Python-окружение
+venv/
+__pycache__/
+*.pyc
