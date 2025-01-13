@@ -1,12 +1,4 @@
-# Операционная система
-*.DS_Store
-*.log
-
-# Среда разработки
-.idea/
-.vscode/
-
-# Python-окружение
-venv/
+../../../../../../Desktop/hhparser/venv/
 __pycache__/
 *.pyc
+.DS_Store
